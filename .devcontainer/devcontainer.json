@@ -1,0 +1,8 @@
+{
+  "name": "Write with SATySFi",
+
+  "image": "ghcr.io/kyori19/devcontainers/images/satysfi-base",
+  "onCreateCommand": ".devcontainer/on-create.sh",
+
+  "postCreateCommand": "satyrographos install"
+}
