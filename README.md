@@ -6,6 +6,8 @@ A template repository to write docs with [SATySFi](https://github.com/gfngfn/SAT
 
 ## Usage
 
+Before you start writing, **PLEASE REMOVE OR CHANGE `LICENSE` FILE**.
+
 ### Use as Template Repository (recommended)
 
 1. Create a new repository from this template by [clicking this link](https://github.com/new?template_name=write-with-satysfi&template_owner=kyori19) (or click <kbd>Use this template</kbd> > <kbd>Create a new repository</kbd>)
